@@ -1,0 +1,43 @@
+/* -- CATEGORY MAPPING CSS START -- */
+.ced_umb_amazon_toggle_wrapper {
+    width: 99%;
+}
+.ced_umb_amazon_toggle_wrapper .ced_umb_amazon_toggle_section h2 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.ced_umb_amazon_toggle_wrapper .ced_umb_amazon_toggle_section {
+    margin: 10px 0;
+}
+.ced_umb_amazon_toggle_wrapper .ced_umb_amazon_toggle h2 {
+  color: #36518a;
+} 
+
+.ced_umb_amazon_toggle_wrapper .ced_umb_amazon_cat_activate_ul.ced_umb_amazon_toggle_div ul{
+  margin-top: 0px;
+}
+
+
+/* -- CATEGORY MAPPING CSS END -- */
+
+.ced_umb_amazon_cat_activate_ul.ced_umb_amazon_toggle_div ul li {
+    display: inline-block;
+    max-width: 270px;
+    width: 100%;
+    vertical-align: top;
+}
+
+.ced_umb_amazon_cat_activate_ul ul {
+    padding: 10px;
+}
+
+
+/* category css **/
+.ced_umb_amazon_cat_activate_ul.ced_umb_amazon_toggle_div>button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* category css **/

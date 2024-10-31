@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#ced_umb_amazon_accordian {
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.ced_umb_amazon_panel_heading h4 {
+  background-color: #eeeeee;
+  margin: 0;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  cursor: pointer;
+}
+
+.ced_umb_amazon_collapse{
+  margin: 0px !important;
+  display: none;
+  border: 1px solid #cccccc;
+  border-top: 0px;
+}
+
+.ced_umb_amazon_collapse.ced_uwb_default {
+  display: block !important;
+}
+
+.ced_umb_amazon_panel {
+  margin-bottom: 7px;
+}

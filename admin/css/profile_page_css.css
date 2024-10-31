@@ -1,0 +1,255 @@
+/* --Profile CSS Start-- */
+
+.ced_umb_amazon_profile_wrapper .ced_umb_amazon_profile_left {
+    float: left;
+    width: 75%;
+    margin-right: 7px;
+}
+
+.ced_umb_amazon_profile_wrapper .ced_umb_amazon_profile_right {
+    float: left;
+    width: 22%;
+    margin-left: 5px;
+}
+
+.ced_umb_amazon_profile_top,.ced_umb_amazon_profile_fields,.ced_umb_amazon_profile_right {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 8px;
+
+}
+
+.ced_umb_amazon_clear {
+    clear: both;
+}
+.ced_umb_amazon_profile_right p.submit {
+    text-align: center;
+}
+.ced_umb_amazon_profile_right .submit input {
+    font-size: 15px !important;
+    min-height: 40px;
+    text-transform: uppercase;
+    width: 140px;
+}
+.ced_umb_amazon_profile_left table.ced_umb_amazon_top_table {
+    width: 100%;
+}
+.ced_umb_amazon_profile_left table.ced_umb_amazon_top_table tr > td:nth-child(1) {
+    padding-bottom: 10px;
+    width: 30%;
+}
+.ced_umb_amazon_profile_fields label.ced_umb_amazon_label {
+    display: inline-block;
+    max-width: 33%;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    vertical-align: top;
+    width: 100%;
+}
+
+
+.ced_umb_amazon_profile_field p {
+    display: inline;
+}
+
+
+.ced_umb_amazon_profile_fields label.ced_umb_amazon_label {
+    display: inline-block;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    vertical-align: top;
+    width: 30%;
+}
+
+/*--Profile CSS  End--*/ 
+
+
+
+/* profile */
+.ced_umb_amazon_wrap div.metabox-holder {
+    padding-top: 0 !important;
+}
+.ced_umb_amazon_wrap.ced_umb_amazon_wrap_extn h2.ced_umb_amazon_setting_header {
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* profile page product search css **/
+.ced_umb_amazon_pro_search_div .ced_umb_amazon_wrap_div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 50%;
+    position: relative;
+}
+
+.ced_umb_amazon_wrap_div > input {
+    width: 100%;
+}
+.ced_umb_amazon_ajax_pro_search_loader {
+    display: inline-block;
+    width: 30px;
+    vertical-align: top;
+}
+
+#ced_umb_amazon_suggesstion_box {
+    background-color: #ccc;
+    position: absolute;
+    width: 100%;
+    z-index: 9999;
+}
+#ced_umb_amazon_suggesstion_box table {
+    cursor: pointer;
+    width: 100%;
+}
+
+#ced_umb_amazon_suggesstion_box table tr td {
+    padding: 5px;
+}
+#ced_umb_amazon_metakeys_list_wrapper.dataTables_wrapper.no-footer {
+    margin-top: 10px;
+}
+.ced_umb_amazon_inline_box > label {
+    vertical-align: top;
+}
+/* profile page product search css **/
+
+
+
+.ced_umb_amazon_tabbed_head_wrapper ul {
+    margin: 0;
+}
+
+.ced_umb_amazon_tabbed_head_wrapper ul li {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #ccc #ccc -moz-use-text-color;
+    border-image: none;
+    border-style: solid solid none;
+    -webkit-border-top-left-radius: 5px;
+    -moz-border-top-left-radius: 5px;
+    -ms-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-top-right-radius: 5px;
+    -ms-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-width: 1px 1px 0;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 7px;
+    margin-right: 0;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    background-color: #eee;
+    cursor: pointer;
+}
+.ced_umb_amazon_tabbed_head_wrapper ul li.active {
+    background-color: #fff;
+    position: relative;
+    top: 1px;
+}
+.ced_umb_amazon_tabbed_head_wrapper {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.ced_umb_amazon_cmn {
+    display: none;
+}
+.ced_umb_amazon_cmn.active {
+    display: block;
+}
+
+
+.ced_umb_amazon_wrap .ced_umb_amazon_toggle span {
+    color: #36518a;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.ced_umb_amazon_wrap .ced_umb_amazon_toggle_section_wrapper {
+    margin: 0 0 10px;
+}
+
+
+.ced_umb_amazon_toggle_div.ced_umb_amazon_instruct p{
+    font-size: 14px;
+    font-style: italic;
+}
+
+.ced_umb_amazon_toggle_div p.submit{
+    text-align:right;
+    padding-right: 20px; 
+}
+
+
+/** added later on 28OCT2016 **/
+.ced_umb_amazon_cmn > table {
+    margin: 0 auto;
+    max-width: 820px;
+    width: 100%;
+}
+
+
+.ced_umb_amazon_cmn table tr td label {
+    display: inline-block;
+    max-width: 234px !important;
+    width: 100%;
+}
+
+.ced_umb_amazon_cmn table tr td:nth-child(2n+1) input, .ced_umb_amazon_cmn table tr td:nth-child(2n+1) select {
+    display: inline-block;
+    width: 49% !important;
+    vertical-align: middle;
+}
+
+.ced_umb_amazon_cmn table tr td:nth-child(2n) select, .ced_umb_amazon_cmn table tr td:nth-child(2n) input {
+    width: 100%;
+}
+
+.ced_umb_amazon_cmn table tr td {
+    vertical-align: top;
+}
+
+.ced_umb_amazon_cmn table tr td:nth-child(2n+1) {
+    width: 64%;
+}
+
+/***Profile css**/
+
+.ced_amazon_attribute_wrapper::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.ced_amazon_attribute_wrapper {
+  padding: 10px;
+}
+.ced_amazon_attribute_wrapper p {
+  float: left;
+  margin: 0;
+  width: 50%;
+}
+.ced_amazon_attribute_wrapper > select {
+  float: left;
+  margin: 0;
+  max-width: 25%;
+  width: 50%;
+}
+.ced_amazon_attribute_wrapper .form-field > label {
+  display: inline-block;
+  max-width: 50%;
+  width: 100%;
+}
+.ced_amazon_attribute_wrapper p.form-field._umb_id_type_field > .select.short {
+  margin: 0;
+  width: 48%;
+}
+.ced_amazon_attribute_wrapper p.form-field._umb_brand_field > input.short {
+  max-width: 48%;
+  width: 100%;
+}

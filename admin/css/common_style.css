@@ -1,0 +1,675 @@
+
+.ced_umb_amazon_wal_required {
+    color: #ff0000;
+}
+
+.ced_umb_amazon_wal_recommended {
+    color: #4286F4;
+}
+
+.ced_umb_amazon_wal_conditionally_required {
+    color: #50FF00;
+}
+
+
+.ced_umb_amazon_get_keys{
+    padding-left: 10px;
+}
+
+
+.ced_umb_amazon_bottom_margin{
+    margin-bottom: 10px!important;
+}
+
+
+/**/
+.ced_umb_amazon_wrap .wp-list-table.widefat.fixed.striped tr th span, 
+.wp-list-table.widefat.fixed.striped tr th,
+.ced_umb_amazon_wrap .wp-list-table.widefat.fixed.striped tr td p label{
+    font-weight: 600;
+}
+
+
+
+.ced_umb_amazon_wrap div.metabox-holder {
+    padding-top: 0 !important;
+}
+.ced_umb_amazon_wrap.ced_umb_amazon_wrap_extn h2.ced_umb_amazon_setting_header {
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+.wrap.woocommerce.ced_umb_amazon_pages_wrapper {
+    margin: 0;
+}
+/* css commom **/
+
+
+
+.ced_umb_amazon_white_txt{
+    color: #000000;
+}
+
+
+
+.ced_umb_amazon_button_right{
+    text-align: right;
+}
+
+
+.ced_umb_amazon_wrap ul.subsubsub li {
+    color: #fff;
+}
+
+.ced_umb_amazon_wrap .subsubsub li a.current {
+    color: #fab418;
+}
+
+.ced_umb_amazon_wrap .subsubsub li a {
+    color: #fff;
+}
+
+
+h2.ced_umb_amazon_setting_header {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    padding: 5px 0;
+    text-transform: uppercase;
+}
+
+.ced_umb_amazon_wrap {
+    background-color: #FFFFFF;
+    padding: 10px;
+    width: 97%;
+}
+
+/** buttons **/
+.button.button-ced_umb_amazon,
+.ced_umb_amazon_wrap .button.action,
+.ced_umb_amazon_wrap .search-box .button{
+    background-color: #fab418 !important;
+    border: 1px solid #fab418 !important;
+    color: #000!important;
+    letter-spacing: 1px;
+    text-shadow: none !important;
+    text-transform: uppercase;
+    box-shadow: 0 1px 2px #ccc !important;
+}
+
+/* nav bar */
+.nav-tab-wrapper.woo-nav-tab-wrapper.ced_umb_amazon_nav_tab_wrapper {
+    border-bottom: 1px solid #fab418;
+    width: 98%;
+    margin-bottom: -2px;
+}
+.nav-tab-wrapper.woo-nav-tab-wrapper.ced_umb_amazon_nav_tab_wrapper a {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #fab418!important;
+    border-color: #fab418;
+    color:#36518a;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin: 0px;
+    margin-right: 8px;
+
+}
+.nav-tab-wrapper.woo-nav-tab-wrapper.ced_umb_amazon_nav_tab_wrapper a.nav-tab.nav-tab-active {
+    background-color: #fff!important;
+    border-bottom: 1px solid transparent;
+    position: relative;
+    z-index: 999;
+    top: -1px;
+}
+.ced_umb_amazon_wrap span.displaying-num {
+    color: #fff;
+}
+/* marketplace */
+.ced_umb_amazon_config_table tr td.manage-column input {
+    width: 100%;
+}
+
+/* feed status */
+.ced_umb_amazon_wrap ul.subsubsub {
+    float: none;
+}
+
+.ced_umb_amazon_pages_wrapper .nav-tab {
+    margin-top: 8px;
+}
+
+/* table full width */
+.ced_umb_amazon_wrap .meta-box-sortables.ui-sortable {
+    margin-right: 20px;
+}
+
+
+/* return address css*/
+div.ced_umb_amazon_return_address table.ced_umb_amazon_return_address input, textarea{
+    width: 100%;
+}
+
+td.ced_umb_amazon_auto_ack input{
+    width: auto!important;
+}
+
+/* return address css */
+div.ced_umb_amazon_return_address table.ced_umb_amazon_return_address input, textarea{
+    width: 100%;
+}
+
+div.ced_umb_amazon_return_address p.submit {
+    text-align: right;
+    padding-right: 20px;
+}
+
+
+
+/* back button */
+.ced_umb_amazon_wrap > div.back {
+    margin: 10px 0;
+}
+
+.ced_umb_amazon_wrap > div.back a {
+    text-decoration: none;
+    color:#000000;
+}
+
+/* back button */
+
+/* -- COMMON STYLE--*/
+.ced_umb_amazon_toggle {
+    background-color: #eee;
+    padding: 10px 7px;
+    cursor: pointer;
+}
+.ced_umb_amazon_toggle_div {
+    background-color: #fff;
+    padding: 10px 7px;
+    display: block;
+    border: 1px solid #ddd;
+}
+#ced_umb_amazon_fields{
+    width:100%;
+}
+
+/* --COMMON STYLE END -- */
+
+
+/* --MARKET PLACE CSS START-- */
+
+.ced_umb_amazon_marketplaces_wrapper {
+    width: 99%;
+    margin-top: 20px;
+}
+.ced_umb_amazon_single_wrapper {
+    margin-bottom: 20px;
+}
+.ced_umb_amazon_marketplaces_wrapper .ced_umb_amazon_marketplace {
+    position: relative;
+}
+.ced_umb_amazon_marketplaces_wrapper .ced_umb_amazon_marketplace span{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 16px;
+} 
+
+.ced_umb_amazon_span {
+    background-color: #ec407a;
+    border-radius: 100%;
+    box-shadow: 0 0 12px #ad1457;
+    float: right;
+    height: 20px;
+    width: 20px;
+}
+.ced_umb_amazon_active.ced_umb_amazon_span {
+    background-color: #34b3a0;
+    box-shadow: 0 1px 15px #1b5e20;
+}
+.ced_umb_amazon_span::before {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    content: "Inactive";
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 3px 0 5px;
+    position: absolute;
+    right: 27px;
+    text-align: center;
+    top: 7px;
+    width: 80px;
+   visibility: hidden;
+    transform: scale(.8);
+  -moz-transform: scale(.8);
+  -webkit-transform: scale(.8);
+  -ms-transform: scale(.8);
+   -ms-transition: all 200ms ease-out 0ms;
+   -moz-transition: all 200ms ease-out 0ms;
+   -webkit-transition: all 200ms ease-out 0ms;
+   transition: all 200ms ease-out 0ms;
+  
+}
+.ced_umb_amazon_active.ced_umb_amazon_span::before{
+    content: "active"!important;
+}
+.ced_umb_amazon_span:hover::before{
+ visibility: visible;
+  transform: scale(1);
+  -moz-transform: scale(1);
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+   -webkit-transition: all 200ms ease-out 0ms;
+   -moz-transition: all 200ms ease-out 0ms;
+   transition: all 200ms ease-out 0ms   
+}
+.ced_umb_amazon_toggle_div.ced_umb_amazon_active{
+  display: block;
+}
+
+/* --MARKET PLACE CSS END -- */
+
+
+
+
+
+/* -- pagination css -- */
+ul.ced_umb_amazon_pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.ced_umb_amazon_pagination li {display: inline;}
+
+ul.ced_umb_amazon_pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+}
+
+ul.ced_umb_amazon_pagination li a.active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+ul.ced_umb_amazon_pagination li a:hover:not(.active) {background-color: #ddd;}
+/* -- pagination css end -- */
+
+/** -- product listing css -- */
+
+.ced_umb_amazon_thumbnail img{
+    width : 50px;
+    height: 50px;
+}
+
+/* -- end of product listing css -- */
+
+/*--Configuration CSS Start --*/
+.ced_umb_amazon_general_config.ced_umb_amazon_toggle_div table.ced_umb_amazon_label_data {
+    width: 100%;
+}
+.ced_umb_amazon_general_config.ced_umb_amazon_toggle_div table.ced_umb_amazon_label_data tr td:nth-child(2n) input[type="text"] {
+    width: 100%;
+}
+.ced_umb_amazon_general_config.ced_umb_amazon_toggle_div table.ced_umb_amazon_label_data tr td {
+    background-color: #eee;
+    padding: 6px;
+}
+.ced_umb_amazon_config_wrapper ul.subsubsub li {
+    float: left;
+}
+.ced_umb_amazon_rowButtons {
+    text-align: right;
+}
+.ced_umb_amazon_config_wrapper ul.subsubsub li a {
+    color: #000;
+    text-transform: uppercase;
+}
+
+.ced_umb_amazon_config_wrapper ul.subsubsub li a.current {
+    color: #1b5e20;
+}
+
+/*--Configuration CSS End ---*/ 
+
+
+.wp-list-table.widefat.fixed.striped.ced_umb_amazon_mps fieldset.inline-edit-col-left {
+    margin-top: 10px !important;
+    width: 100% !important;
+}
+
+.wp-list-table.widefat.fixed.striped.ced_umb_amazon_mps fieldset.inline-edit-col-left .ced_umb_amazon_profile_field label {
+    display: inline-block;
+    max-width: 30%;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.wp-list-table.widefat.fixed.striped.ced_umb_amazon_mps fieldset.inline-edit-col-left .ced_umb_amazon_profile_field input[type="text"] {
+    width: 65%;
+}
+
+.wp-list-table.widefat.fixed.striped.ced_umb_amazon_mps fieldset.inline-edit-col-left .ced_umb_amazon_profile_field p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/*--Edit Order CSS Start--*/ 
+
+.umb_header_options {
+    margin-top: 10px;
+}
+
+.umb_header_options button{
+
+    border: 0 none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    padding: 2px 10px 5px;
+    text-transform: uppercase;
+}
+.umb_header_options #umb_order_confirmation {
+    background-color: #388E3C;
+}
+.umb_header_options #umb_order_cancel{
+    background-color:#d50000;
+}
+/*--Edit Order CSS End*/ 
+
+
+/*--File Status Start--*/ 
+
+.ced_umb_amazon_fileStatus {
+    padding: 20px 10px;
+}
+
+/*--File Status End--*/ 
+
+table.ced_umb_amazon_fileTable {
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+table.ced_umb_amazon_fileTable tr td {
+    background-color: #fff;
+    padding: 5px;
+}
+
+.ced_umb_amazon_file_detail span {
+    margin-right: 10px;
+}
+
+.ced_umb_amazon_updateFileInfo {
+    background-color: #039be5;
+    border: 0 none;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    color: #fff;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    cursor:pointer;
+}
+
+.ced_umb_amazon_file_detail {
+    background-color: #fff;
+    padding: 7px;
+}
+
+
+/* manage product profile section */
+.ced_umb_amazon_hidden_profile_section {
+    margin: 30px auto 0;
+    max-width: 600px;
+    padding: 20px;
+    position: relative;
+    top: 38%;
+}
+.ced_umb_amazon_overlay {
+    display : none;
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 9999;
+}
+.ced_umb_amazon_hidden_profile_section select {
+    width: 85%;
+}
+.ced_umb_amazon_overlay_cross {
+    cursor: pointer;
+}
+.ced_umb_amazon_profile_wrapper .ced_umb_amazon_profileProMeta {
+    overflow-x: scroll;
+}
+
+.ced_umb_amazon_profile_wrapper .ced_umb_amazon_profile_left {
+    width: 60%;
+}
+
+.ced_umb_amazon_profile_wrapper .ced_umb_amazon_profile_right {
+    width: 36%;
+}
+.ced_umb_amazon_profile_wrapper .ced_umb_amazon_productKeysListing {
+    width: 100%;
+}
+.ced_umb_amazon_profile_wrapper .postbox{
+    padding: 10px;
+}
+.ced_umb_amazon_productKeysListing th {
+    text-align: left;
+}
+.ced_umb_amazon_productKeysListing th a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.wp-list-table.widefat.fixed.striped.ced_umb_amazon_prerequisite img {
+    margin-left: 11px;
+    width: 15px;
+}
+.ced_umb_amazon_prerequisite {
+   margin: auto;
+   max-width: 60%;
+   padding: 10px;
+}
+.ced_umb_amazon_prerequisite_wrapper > h2 {
+    text-align: center;
+}
+.ced_umb_amazon_prerequisite{
+    border-radius: 25px;
+    border: 2px solid #ccc !important;
+}
+
+/***********newp ****************/
+
+
+#ced_umb_amazon_fields #ced_umb_amazon_accordian .ced_umb_amazon_panel .ced_umb_amazon_collapse .ced_umb_amazon_label_data p input {
+    margin-left: 20px;
+}
+#ced_umb_amazon_fields #ced_umb_amazon_accordian .ced_umb_amazon_panel .ced_umb_amazon_collapse .ced_umb_amazon_label_data p select {
+    margin-left: 20px;
+}
+
+.ced_umb_amazon_toggle_div p label {
+    display: inline-block;
+    max-width: 75%;
+    width: 100%;
+}
+
+#ced_umb_amazon_marketplace_loader {
+    background-color: rgba(255, 255, 255, 0.6);
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+#ced_umb_amazon_marketplace_loader img {
+    display: block;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: 40%;
+}
+/**==TAX CODE OVERLAY ==**/
+
+.ced_umb_amazon_taxcode_overlay_wrapper {
+    display : none;
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 9999;
+}
+
+.ced_umb_amazon_taxcode_overlay {
+    background-color: #fff;
+    border: 4px solid #000;
+    bottom: 0;
+    height: 400px;
+    left: 0;
+    margin: auto;
+    max-width: 820px;
+    overflow-y: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.ced_umb_amazon_taxcode_overlay table tr:nth-child(2n+1) td {
+    background-color: #eee;
+}
+
+.ced_umb_amazon_taxcode_overlay table tr td,.ced_umb_amazon_taxcode_overlay table tr th {
+    cursor: pointer;
+    padding: 6px;
+    vertical-align: middle;
+}
+.ced_umb_amazon_taxcode_overlay table tr th{
+    background-color:#333;
+    color:#fff;
+}
+.ced_umb_amazon_cancel {
+    border: 2px solid red;
+    border-radius: 100%;
+    cursor: pointer;
+    display: block;
+    float: right;
+    height: 35px;
+    margin: 4%;
+    text-align: center;
+    width: 35px;
+}
+
+.ced_umb_amazon_cancel img {
+    padding-top: 6px;
+}
+.ced_umb_amazon_search_wrap{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.ced_umb_amazon_search_wrap input{
+    float : none !important;
+}
+
+/**== Category page amazon ==**/
+
+.umb-attribute-select-wrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+.umb-selcted-category-subcats ul.ced_umb_amazon_ul {
+    background-color: #fff;
+    bottom: 0;
+    height: 300px;
+    left: 0;
+    margin: auto;
+    max-width: 400px;
+    overflow-y: scroll;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+#ced_umb_amazon_products .tablenav-paging-text {
+    color: #000000;
+}
+.ced_umb_amazon_bulk_action .select2.select2-container.select2-container--default {
+    width: 100% !important;
+}
+.ced_umb_amazon_wrap > div.back a::before {
+    content: "<<";
+    font-size: 20px;
+}
+.ced_umb_amazon_wrap > div.back > a {
+    font-size: 17px;
+}
+table.activityfeeds th {
+    vertical-align: top;
+}
+#ced_umb_amazon_wallmart_shipment_submit.button {
+    margin-left: 0;
+    margin-top: 15px;
+}
+
+.ced_umb_amazon_panel .ced_umb_amazon_sub_accordion .ced_umb_amazon_sub_panel h4 ,.ced_umb_amazon_label_data p.form-field {
+    margin-top: 0;
+    padding-top:10px;
+}
+.ced_umb_amazon_panel .ced_umb_amazon_sub_accordion .ced_umb_amazon_sub_panel h4{
+margin-left:15px;
+}
+.ced_umb_amazon_panel .ced_umb_amazon_sub_accordion .ced_umb_amazon_sub_panel h4 {
+    margin-left: 15px;
+}
+.ced_umb_amazon_toggle_div.ced_attr_wrapper label {
+    max-width: 200px;
+    width: 100%;
+}
+.woocommerce_variable_attributes #ced_umb_amazon_fields {
+    width: 100% !important;
+}
+#ced_umb_amazon_fields #ced_umb_amazon_accordian {
+    padding: 0;
+}
+.ced_umb_amazon_cmn table.fixed.striped.widefat tr td input[type="checkbox"] {
+    width: auto;
+}
+.ced_umb_amazon_inline_box > label {
+    vertical-align: middle;
+}
